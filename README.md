@@ -1,3 +1,4 @@
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 <h1 align="center">💫 About Me 💫</h1>
 
 <h2 align="center">Hello, I'm Nabeel Hassan 👋</h2>
@@ -19,17 +20,6 @@
   🏫 Proud member of **100xdevs COHORT-1**, constantly pushing my boundaries.
 
 </div>
-
-<h3 align="center">🛠 Tech Stack & Tools</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
 
 <h3 align="center">🌟 Let's Connect!</h3>
 
